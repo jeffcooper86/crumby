@@ -68,7 +68,7 @@ function makeBreadcrumbs(crumbsContainer) {
 				crumbs.appendChild(currentCrumb);
 			}
 			
-			// make the current page crumb
+			// make the current page crumb without a link
 			
 			currentCrumb = document.createElement("span");
 			currentCrumb.innerHTML = path[path.length-1];
