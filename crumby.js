@@ -2,6 +2,7 @@
 * Crumby v1.0
 * Makes breadcrumbs based on the url path.
 * Takes the id of the element that will contain the breadcrumbs as a parameter.
+* https://github.com/jecoopr/crumby
 * @jecoopr
 */
 
